@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Application Architecture
 
-![Application Architecture](/img/PyPSA_lit_structure.png)
+![Application Architecture](/img/pypsa_lit_structure.png)
 
 In the root directory of this project, you will find the following essential files:
 
