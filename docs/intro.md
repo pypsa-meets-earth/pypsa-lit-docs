@@ -10,13 +10,19 @@ As you progress through the tutorial, you'll be able to appreciate the value of 
 
 Upon successfully completing the tutorial, you'll be able to observe firsthand the tangible benefits of this approach. The following is a glimpse of the results you can anticipate once you've executed the model and applied the techniques outlined:
 
-![Result Preview](/img/scenario_comparision.png)
+![Result Preview](/img/stacked_bar_clean.png)
 &nbsp;
 
-![Result Preview](/img/spatial_configuration.png)
+![Result Preview](/img/TH_solar.png)
 &nbsp;
 
-![Result Preview](/img/system_operations.png)
+![Result Preview](/img/MY_solar.png)
+&nbsp;
+
+![Result Preview](/img/GE_wind.png)
+&nbsp;
+
+![Result Preview](/img/demand_ts.png)
 &nbsp;
 
 Visualized Insights: Engage with dynamic charts and maps that vividly represent intricate data patterns and system behavior.
